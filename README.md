@@ -1,3 +1,2 @@
-# testGit
-this for testing git
-hello world <;!!
+# AI Project SWE 485
+
