@@ -18,6 +18,7 @@ Our aim to predict the quality of water from 3272 different water bodies where w
 [1]mportance of safe drinking water for human life - researchgate (no date). Available at: https://www.researchgate.net/publication/341539508_Importance_of_Safe_Drinking_Water_for_Human_Life (Accessed: April 23, 2023).
  
 [2]Kadiwal, A. (2021) Water quality, Kaggle. Available at: https://www.kaggle.com/datasets/adityakadiwal/water-potability (Accessed: April 23, 2023). 
+
 -----------------------------------------------------------------------
 
 # About Dataset:
