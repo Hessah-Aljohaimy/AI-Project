@@ -3,7 +3,8 @@ Student Name : Khawlah Alnayel | Student ID : 441200943
 
 Student Name : Sarah Alomar  | Student ID : 441200917 
 
- Student Name : Hessah Aljohaimy  | Student ID : 441201152
+Student Name : Hessah Aljohaimy  | Student ID : 441201152
+
 ------------------------------------------------------------------
 # Introducation
  Every human being needs clean water for intake. The World Health Organization (WHO) estimates that 80% of illnesses are water-borne. Industrialization, discharge of internal waste, radioactive waste, population growth, unnecessary use of pesticides, fertilizers and leakage from water tanks are key sources of water effluence. In Addition, there are negative health effects associated with these wastes. Different chemicals have dissimilar affects depending on their positions and categories. Bacterial, viral and parasitic diseases like typhoid, cholera, encephalitis, poliomyelitis, hepatitis, skin infection and gastrointestinal disease are spreading through polluted water [1]. 
