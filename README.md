@@ -1,6 +1,23 @@
-# AI Project SWE 485
+# AI Project for SWE 485 | G3 | Water Quality
+Student Name : Khawlah Alnayel | Student ID : 441200943 
 
-About Dataset:
+Student Name : Sarah Alomar  | Student ID : 441200917 
+
+ Student Name : Hessah Aljohaimy  | Student ID : 441201152
+------------------------------------------------------------------
+# Introducation
+ Every human being needs clean water for intake. The World Health Organization (WHO) estimates that 80% of illnesses are water-borne. Industrialization, discharge of internal waste, radioactive waste, population growth, unnecessary use of pesticides, fertilizers and leakage from water tanks are key sources of water effluence. In Addition, there are negative health effects associated with these wastes. Different chemicals have dissimilar affects depending on their positions and categories. Bacterial, viral and parasitic diseases like typhoid, cholera, encephalitis, poliomyelitis, hepatitis, skin infection and gastrointestinal disease are spreading through polluted water [1]. 
+
+Therefore, it is recommended to examine the water quality on a regular basis to avoid its destructive effects on human health. As a matter of fact, the availability of safe drinking water is one of the most vital components of effective health protection policy and constitutes a fundamental human right. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions [2]. 
+
+Our aim to predict the quality of water from 3272 different water bodies where we have the pH value ,Hardness , Solids , Chloramines , Sulfate , Conductivity , Organic carbon , Trihalomethanes , Turbidity all in different values then we have the probability to indicate whether the water is safe or not and to understand the relationship between these different values and the quality of water. 
+
+[1]mportance of safe drinking water for human life - researchgate (no date). Available at: https://www.researchgate.net/publication/341539508_Importance_of_Safe_Drinking_Water_for_Human_Life (Accessed: April 23, 2023).
+ 
+[2]Kadiwal, A. (2021) Water quality, Kaggle. Available at: https://www.kaggle.com/datasets/adityakadiwal/water-potability (Accessed: April 23, 2023). 
+-----------------------------------------------------------------------
+
+# About Dataset:
 
 Context
 
